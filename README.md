@@ -1,6 +1,3 @@
-### Hi there 👋, I’m Thijs
+Hey there! I'm Thijs, a developer who's all about Microsoft tech. I love getting my hands dirty with the latest features and tools, especially in Business Central. My journey in tech has been a blast, filled with learning and creating awesome stuff. Whether it's Power Automate, Power BI, AL-Go, Office, or Azure, I'm always up for a challenge and ready to build something cool. 🚀
 
-- 👀 I’m interested in Business Central, Power Platform, and all things Microsoft!
-- 🌱 I’m currently learning about the latest features and technologies in Business Central software development.
-- ⚡ Fun fact: The first high-level programming language 1950, Fortran, was written using assembly language.
-                This foundational work allowed programmers to write more complex and human-readable code, paving the way for modern software development! 🚀
+**Specializations:** Business Central, Power Automate, Power BI, AL-Go, Office, and Azure.
